@@ -41,7 +41,7 @@ Hei!
 [vg.no](https://www.vg.no/)
 
 ### NY hovedsider
-[NY](https://haraldzeigler.github.io/ULH/main.md)
+[NY](https://haraldzeigler.github.io/ULH/mainsite.html)
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
