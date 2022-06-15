@@ -40,7 +40,7 @@ Hei!
 ### Nytt avsnitt
 [vg.no](https://www.vg.no/)
 
-### NY hovedside
+### NY hovedsider
 [NY!!](https://haraldzeigler.github.io/ULH/main.md)
 
 
