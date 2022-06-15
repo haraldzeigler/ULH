@@ -1,2 +1,2 @@
 ## Superoverskrift
-Hei på dere!
+Hei paa dere!
